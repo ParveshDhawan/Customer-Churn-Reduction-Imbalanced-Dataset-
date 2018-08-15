@@ -1,1 +1,1 @@
-# Customer-Churn-Reduction-Imbalanced-Dataset-
+# Customer Churn Reduction Imbalanced Dataset

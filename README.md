@@ -40,3 +40,15 @@ Two different (files as Test.csv and Train.csv) datasets were provided as train 
 | Churn *	|	Target - ‘True.' If customer churned else ‘False’ |
 
 Size of Dataset  Provided :- Train.csv (3333 rows, 21 Columns) , Test.csv (1667 rows, 21 Columns)
+
+
+## Approch
+Binary classification of Customer Churn including 
+♦ Data Preprocessing & Cleaning 
+♦ Data Analysis 
+♦ Data Visualization 
+♦ Imbalanced Target class 
+♦ Apply Different Modeling Technique 
+♦ Cross Validation 
+♦ Model Optimization & Evaluation 
+♦ Final Model Selection & Prediction
